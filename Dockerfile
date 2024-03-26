@@ -6,4 +6,4 @@ WORKDIR /app
 
 CMD [ "bash" ]
 
-ENTRYPOINT [ "bash -c" ]
+#ENTRYPOINT [ "bash -c" ]
